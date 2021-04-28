@@ -74,7 +74,7 @@ html{
 
 #home::before{
     content: "";
-    background: url("../5.webp") no-repeat center center/cover;
+    background: url("5.webp") no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
